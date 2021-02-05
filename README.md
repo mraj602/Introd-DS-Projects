@@ -1,4 +1,4 @@
-# Introd-Data-Science-Tasks
+# Introductory-Data-Science-Tasks
 Set of small projects I did while learning Data Science!
 
 # Background Information
