@@ -21,7 +21,7 @@ I collected 12 different CSV files containing sales data for 12 additional month
  5. What product sold the most? Why do you think it did? 
  
  # The Project
- ### I had grouped the tasks I did under the following steps:\
+ ### I had grouped the tasks I did under the following steps:
  ## 1. Merging Data
  ## 2. Knowing and Cleaning the Data
  * Understanding the data we have
